@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielLarramendi
 - 👀 I’m interested in front-end 
-- 🌱 I’m currently learning HTML5, CSS3 and framework Svelte
+- 🌱 I’m currently learning HTML5, CSS3. Learning JS.
 
 <!---
 GabrielLarramendi/GabrielLarramendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
