@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GabrielLarramendi
-- 👀 I’m interested in front-end 
 - 🌱 I’m currently learning Java.
 
 <!---
