@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielLarramendi
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
+- 🌱 I’m currently learning Java.
 
 <!---
 GabrielLarramendi/GabrielLarramendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
