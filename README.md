@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielLarramendi
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and Kotlin
 
 
 <!---
